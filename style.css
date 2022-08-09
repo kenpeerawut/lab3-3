@@ -1,0 +1,17 @@
+.yellow-bg {
+  background-color:yellow;
+  padding:0.1em 0.2em;
+  text-decoration: underline;
+}
+.gray-bg {
+    background-color:gray;
+    padding:0.1em 0.2em;
+   
+}
+
+
+#year{
+    font-weight:bold;
+    font-style: italic;
+    color:red;
+}
